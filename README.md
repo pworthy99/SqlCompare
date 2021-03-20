@@ -1,2 +1,2 @@
 # SqlCompare
-Opensource SQL Compare Tool
+Opensource SQL Schema Compare Tool 
